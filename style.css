@@ -1,0 +1,35 @@
+#emoji{
+    font-size: 22px;
+}
+#title{
+    color: goldenrod;
+    letter-spacing: 5px;
+
+}
+#webcam, #result{
+    border: 3px dashed black;
+    width: 350px;
+    height: 300px; 
+
+}
+label{
+    font-size: 18px;
+    color:black;
+    background-color:white;
+    padding:6px;
+    border-radius: 10px;
+  }
+  body{
+      background-color:palegoldenrod;
+      text-align: center;
+  }
+  .container{
+      text-align: center;
+  }
+  #capture_image{
+      width: 344px;
+      height: 294px;
+  }
+  .emotion_name{
+      font-size: 30px
+  }

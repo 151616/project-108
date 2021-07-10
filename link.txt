@@ -1,0 +1,4 @@
+https://teachablemachine.withgoogle.com/models/wfEkRI7Pw/
+
+
+https://storage.googleapis.com/tm-model/wfEkRI7Pw/model.json
